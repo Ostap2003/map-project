@@ -18,7 +18,7 @@ Please wait...
 Finished. Please have look at the map 2017_movies_map.html
 ```
 #### Map example:
-![map](photos/map_example1.jpg)
+![map](photos/map_example1.png)
 ***
 ### Generated HTML tags:
 ```<!DOCTYPE html>``` file type <br>
